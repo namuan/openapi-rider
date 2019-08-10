@@ -1,0 +1,7 @@
+.DS_Store
+
+# IntelliJ
+.idea/dictionaries/jk.xml
+.idea/workspace.xml
+.idea
+docs/tasks/*.pdf
